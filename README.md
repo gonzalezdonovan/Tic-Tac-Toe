@@ -32,6 +32,7 @@ https://react.dev/learn/tutorial-tic-tac-toe
 ## Estructura del proyecto
 
 src/
+
     - App.jsx
     - index.css
     - main.jsx
