@@ -32,10 +32,10 @@ https://react.dev/learn/tutorial-tic-tac-toe
 ## Estructura del proyecto
 
 src/
-    -App.jsx
-    -index.css
-    -main.jsx
-    -assets/
+    - App.jsx
+    - index.css
+    - main.jsx
+    - assets/
 
 ---
 
@@ -43,23 +43,23 @@ src/
 
 1. Clonar el repositorio
 
-git clone https://github.com/tu-usuario/tic-tac-toe-react
+    git clone https://github.com/tu-usuario/tic-tac-toe-react
 
 2. Entrar a la carpeta del proyecto
 
-cd tic-tac-toe-react
+    cd tic-tac-toe-react
 
 3. Instalar dependencias
 
-npm install
+    npm install
 
 4. Ejecutar el proyecto
 
-npm run dev
+    npm run dev
 
 5. Abrir en el navegador
 
-http://localhost:5173
+    http://localhost:5173
 
 ---
 
